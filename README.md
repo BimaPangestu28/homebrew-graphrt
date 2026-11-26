@@ -1,9 +1,9 @@
 # Homebrew tap for graphrt
 
-[graphrt](https://github.com/BimaPangestu28/graphrt) is a small, fast runtime for agentic AI workflow graphs.
+[graphrt](https://github.com/Graphrt/graphrt) is a small, fast runtime for agentic AI workflow graphs.
 
 ```sh
-brew install bimapangestu28/graphrt/graphrt
+brew install graphrt/graphrt/graphrt
 graphrt --version
 ```
 
